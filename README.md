@@ -97,13 +97,7 @@ Currently focused on **software architecture**, **Clean Code**, **SOLID**, separ
 ## Contacts
 
 <p>
-  <a href="mailto:luispenholato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-mauro-penholato/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/luismpenholato" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" />
-  </a>
+  <a href="mailto:luispenholato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/luis-mauro-penholato/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+  <a href="https://github.com/luismpenholato" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" /></a>
 </p>
