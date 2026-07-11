@@ -1,103 +1,55 @@
-<div align="center">
-  <img
-    src="https://readme-typing-svg.vercel.app/?color=58a6ff&size=28&center=true&vCenter=true&width=900&lines=Luis+Mauro+Penholato;Full+Stack+Developer+.NET/C%23;Software+Architecture+%7C+APIs+%7C+SaaS;Angular+%7C+React+%7C+Azure+DevOps"
-    alt="Typing SVG"
-  />
-</div>
+# Hi, I'm Luis Mauro 👋
 
-<br />
+Software Developer focused on **.NET architecture**, **distributed systems**,
+**developer tooling** and **open-source products**.
 
-## About me
+I build maintainable backend systems, event-driven applications and tools that
+improve the developer experience.
 
-Full Stack Developer focused on building scalable, maintainable and well-structured applications using **.NET/C#**, **Angular**, **React**, **TypeScript**, **SQL Server** and **Azure DevOps**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-mauro-penholato/)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/luismpenholato)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luispenholato@gmail.com)
 
-I have experience with corporate systems, SaaS platforms, REST APIs, system integrations, background processing, CI/CD pipelines and cloud-based application delivery.
+## Featured projects
 
-Currently focused on **software architecture**, **Clean Code**, **SOLID**, separation of responsibilities and sustainable solutions for enterprise environments.
+### [Nebula Aura Theme](https://github.com/luismpenholato/nebula-aura-theme)
 
-<br />
+A modern light, dark, violet and midnight theme pack for VS Code, Cursor and compatible editors, with more than **10,000 downloads**.
 
-## Technical Focus
+### [QueryForge MCP](https://github.com/luismpenholato/queryforge-mcp)
 
-<p>
-  <img src="https://img.shields.io/badge/Software%20Architecture-0D1117?style=for-the-badge&logo=blueprint&logoColor=58a6ff" alt="Software Architecture" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge&logo=dotnet&logoColor=58a6ff" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/Clean%20Code-0D1117?style=for-the-badge&logo=codefactor&logoColor=58a6ff" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/SOLID-0D1117?style=for-the-badge&logo=abstract&logoColor=58a6ff" alt="SOLID" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=swagger&logoColor=58a6ff" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SaaS-0D1117?style=for-the-badge&logo=icloud&logoColor=58a6ff" alt="SaaS" />
-</p>
+A local-first MCP server for reviewing and improving .NET EF Core, LINQ and Dapper query performance.
 
-<br />
+### [Microservices Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce)
 
-## Main Skills
+A distributed ecommerce reference architecture using .NET, RabbitMQ, PostgreSQL, Redis, API Gateway and observability tooling.
 
-### Backend
+### [EventStreaming Analytics Kafka](https://github.com/luismpenholato/EventStreaming.Analytics.Kafka)
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=58a6ff" alt=".NET" />
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=58a6ff" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=58a6ff" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-0D1117?style=for-the-badge&logo=dotnet&logoColor=58a6ff" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/MediatR-0D1117?style=for-the-badge&logo=dotnet&logoColor=58a6ff" alt="MediatR" />
-</p>
+An event streaming reference project using Kafka, transactional Outbox, idempotent consumers, PostgreSQL and CQRS-oriented read models.
 
-### Frontend
+[View all repositories](https://github.com/luismpenholato?tab=repositories)
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=58a6ff" alt="Angular" />
-  <img src="https://img.shields.io/badge/AngularJS-0D1117?style=for-the-badge&logo=angularjs&logoColor=58a6ff" alt="AngularJS" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58a6ff" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58a6ff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58a6ff" alt="JavaScript" />
-</p>
+## Core expertise
 
-### Database
+- Clean Architecture, DDD and SOLID
+- Event-driven systems and asynchronous processing
+- Distributed systems and transactional Outbox
+- API design, observability and CI/CD
+- Developer tooling and open-source products
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=58a6ff" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58a6ff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff" alt="PostgreSQL" />
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Integration & Background Processing
+## Open source
 
-<p>
-  <img src="https://img.shields.io/badge/Hangfire-0D1117?style=for-the-badge&logo=dotnet&logoColor=58a6ff" alt="Hangfire" />
-  <img src="https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=58a6ff" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/External%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff" alt="External APIs" />
-  <img src="https://img.shields.io/badge/Data%20Integration-0D1117?style=for-the-badge&logo=databricks&logoColor=58a6ff" alt="Data Integration" />
-</p>
+I maintain projects focused on developer experience, software architecture and productivity.
 
-### Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=58a6ff" alt="Azure" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=58a6ff" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/Pipelines-0D1117?style=for-the-badge&logo=azurepipelines&logoColor=58a6ff" alt="Pipelines" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58a6ff" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58a6ff" alt="Docker" />
-</p>
-
-<br />
-
-## Professional Experience
-
-- Full Stack development for corporate systems and SaaS solutions
-- Backend development with .NET/C#, REST APIs and SQL databases
-- Frontend development with Angular, AngularJS, React and TypeScript
-- Technical leadership, architecture decisions and delivery organization
-- Integration between systems, external APIs and data-oriented solutions
-- Background jobs, asynchronous routines and critical system support
-- Azure DevOps pipelines, releases and cloud application deployment
-- Maintenance and modernization of legacy applications
-
-<br />
-
-## Contacts
-
-<p>
-  <a href="mailto:luispenholato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/luis-mauro-penholato/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-  <a href="https://github.com/luismpenholato" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" /></a>
-</p>
+If my work helps you, consider supporting the continued development and maintenance of these projects through [GitHub Sponsors](https://github.com/sponsors/luismpenholato).
