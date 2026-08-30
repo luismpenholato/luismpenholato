@@ -28,6 +28,14 @@ A distributed ecommerce reference architecture using .NET, RabbitMQ, PostgreSQL,
 
 An event streaming reference project using Kafka, transactional Outbox, idempotent consumers, PostgreSQL and CQRS-oriented read models.
 
+### [CleanStack](https://github.com/luismpenholato/clean-stack)
+
+A full stack starter with a .NET backend and independent Angular or React/Next.js frontends. Includes product management examples, tests, Dockerfiles and CI workflows.
+
+### [OrderFlow Operations](https://github.com/luismpenholato/orderflow-operations)
+
+A commercial operations MVP with React, Node.js and PostgreSQL. Demonstrates transactional inventory reservations, kit expansion and asynchronous ERP synchronization through an outbox.
+
 [View all repositories](https://github.com/luismpenholato?tab=repositories)
 
 ## Core expertise
