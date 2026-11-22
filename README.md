@@ -6,7 +6,6 @@ I maintain open-source tools that help teams ship with clearer specs, better age
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-mauro-penholato/)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/luismpenholato)
-[![npm verdicspec](https://img.shields.io/npm/v/verdicspec?label=verdicspec&logo=npm)](https://www.npmjs.com/package/verdicspec)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luispenholato@gmail.com)
 
 ## Open-source products
@@ -30,11 +29,11 @@ Modern **light / dark / violet / midnight** theme pack for VS Code, Cursor and A
 
 ## Also building
 
-Architecture references and starters (not Sponsors-funded products):
+Architecture references and starters (study / portfolio — not Sponsors products):
 
 - [queryforge-editor](https://github.com/luismpenholato/queryforge-editor) / [queryforge-mcp](https://github.com/luismpenholato/queryforge-mcp) — LINQ / EF Core / Dapper query diagnostics
-- [clean-stack](https://github.com/luismpenholato/clean-stack) — .NET + Angular/React full-stack foundation
-- [Microservices.Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce) — event-driven .NET reference
+- [clean-stack](https://github.com/luismpenholato/clean-stack) — .NET 10 + Angular 21 or React/Next full-stack starter
+- [Microservices.Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce) — event-driven .NET microservices reference
 
 [View all repositories](https://github.com/luismpenholato?tab=repositories)
 
