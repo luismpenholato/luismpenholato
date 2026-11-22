@@ -62,3 +62,6 @@ Study / portfolio starters (not production products):
 ## Sponsor
 
 If Verdicspec or Nebula Aura help your workflow, consider supporting maintenance and new releases through [GitHub Sponsors](https://github.com/sponsors/luismpenholato).
+
+<!-- profile-note -->
+
