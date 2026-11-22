@@ -65,3 +65,5 @@ If Verdicspec or Nebula Aura help your workflow, consider supporting maintenance
 
 <!-- profile-note -->
 
+<!-- yolo-bypass -->
+
