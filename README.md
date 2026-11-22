@@ -19,7 +19,7 @@ npm install --global verdicspec
 verdicspec init . --tool all
 ```
 
-[npm package](https://www.npmjs.com/package/verdicspec) · [Skills library](https://github.com/luismpenholato/verdic-skills) · [GitHub](https://github.com/luismpenholato/verdicspec)
+[npm package](https://www.npmjs.com/package/verdicspec) · [Skills library](https://github.com/luismpenholato/verdicspec-skills) · [GitHub](https://github.com/luismpenholato/verdicspec)
 
 ### [Nebula Aura Theme](https://github.com/luismpenholato/nebula-aura-theme)
 
@@ -32,16 +32,18 @@ Modern **light / dark / violet / midnight** theme pack for VS Code, Cursor and A
 Not Sponsors products — free to use, local-first, optional sponsorship for maintenance:
 
 - **[QueryForge Editor](https://github.com/luismpenholato/queryforge-editor)** / **[QueryForge MCP](https://github.com/luismpenholato/queryforge-mcp)** — LINQ, EF Core and Dapper query diagnostics for VS Code, Cursor and agents
-- **[verdic-skills](https://github.com/luismpenholato/verdic-skills)** — reusable Agent Skills for .NET, Angular, React, security and Clean Architecture
+- **[verdicspec-skills](https://github.com/luismpenholato/verdicspec-skills)** — reusable Agent Skills for .NET, Angular, React, security and Clean Architecture
 
-## Architecture references
+## Architecture & product references
 
-Study / portfolio starters (not production products):
+Study / portfolio projects (not production products unless noted):
 
 - [clean-stack](https://github.com/luismpenholato/clean-stack) — .NET 10 + Angular 21 or React/Next full-stack starter
 - [Microservices.Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce) — YARP, RabbitMQ/MassTransit, Outbox, observability
 - [EventDriven.OrderProcessing.RabbitMQ](https://github.com/luismpenholato/EventDriven.OrderProcessing.RabbitMQ) · [EventStreaming.Analytics.Kafka](https://github.com/luismpenholato/EventStreaming.Analytics.Kafka) — event-driven .NET 10 references
 - [orderflow-operations](https://github.com/luismpenholato/orderflow-operations) — order / inventory / ERP sync MVP (outbox)
+- [utilitarios-web](https://github.com/luismpenholato/utilitarios-web) — Brazilian free online utilities (Next.js static export)
+- [game2dmmo](https://github.com/luismpenholato/game2dmmo) — Phaser 3 pixel-art 2D RPG prototype (TypeScript)
 
 [View all repositories](https://github.com/luismpenholato?tab=repositories)
 
@@ -62,8 +64,3 @@ Study / portfolio starters (not production products):
 ## Sponsor
 
 If Verdicspec or Nebula Aura help your workflow, consider supporting maintenance and new releases through [GitHub Sponsors](https://github.com/sponsors/luismpenholato).
-
-<!-- profile-note -->
-
-<!-- yolo-bypass -->
-
