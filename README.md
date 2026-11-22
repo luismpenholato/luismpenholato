@@ -42,7 +42,6 @@ Study / portfolio projects (not production products unless noted):
 - [Microservices.Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce) — YARP, RabbitMQ/MassTransit, Outbox, observability
 - [EventDriven.OrderProcessing.RabbitMQ](https://github.com/luismpenholato/EventDriven.OrderProcessing.RabbitMQ) · [EventStreaming.Analytics.Kafka](https://github.com/luismpenholato/EventStreaming.Analytics.Kafka) — event-driven .NET 10 references
 - [orderflow-operations](https://github.com/luismpenholato/orderflow-operations) — order / inventory / ERP sync MVP (outbox)
-- [game2dmmo](https://github.com/luismpenholato/game2dmmo) — Phaser 3 pixel-art 2D RPG prototype (TypeScript)
 
 [View all repositories](https://github.com/luismpenholato?tab=repositories)
 
