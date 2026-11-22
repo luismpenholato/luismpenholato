@@ -1,63 +1,57 @@
 # Hi, I'm Luis Mauro 👋
 
-Software Developer focused on **.NET architecture**, **distributed systems**,
-**developer tooling** and **open-source products**.
+Software developer focused on **developer tooling**, **AI-assisted engineering**, and **.NET / TypeScript** products.
 
-I build maintainable backend systems, event-driven applications and tools that
-improve the developer experience.
+I maintain open-source tools that help teams ship with clearer specs, better agent workflows, and a more comfortable editor.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-mauro-penholato/)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/luismpenholato)
+[![npm verdicspec](https://img.shields.io/npm/v/verdicspec?label=verdicspec&logo=npm)](https://www.npmjs.com/package/verdicspec)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luispenholato@gmail.com)
 
-## Featured projects
+## Open-source products
+
+### [Verdicspec](https://github.com/luismpenholato/verdicspec)
+
+Portable **specification-driven** method and skills for AI coding agents (Cursor, Claude, Codex, Antigravity).
+
+```powershell
+npm install --global verdicspec
+verdicspec init . --tool all
+```
+
+[npm package](https://www.npmjs.com/package/verdicspec) · [GitHub](https://github.com/luismpenholato/verdicspec)
 
 ### [Nebula Aura Theme](https://github.com/luismpenholato/nebula-aura-theme)
 
-A modern light, dark, violet and midnight theme pack for VS Code, Cursor and compatible editors, with more than **10,000 downloads**.
+Modern **light / dark / violet / midnight** theme pack for VS Code, Cursor and Antigravity — readability and contrast for long sessions.
 
-### [QueryForge MCP](https://github.com/luismpenholato/queryforge-mcp)
+[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=nebula-themes.nebula-aura-theme) · [Open VSX](https://open-vsx.org/extension/nebula-themes/nebula-aura-theme) · [GitHub](https://github.com/luismpenholato/nebula-aura-theme)
 
-A local-first MCP server for reviewing and improving .NET EF Core, LINQ and Dapper query performance.
+## Also building
 
-### [Microservices Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce)
+Architecture references and starters (not Sponsors-funded products):
 
-A distributed ecommerce reference architecture using .NET, RabbitMQ, PostgreSQL, Redis, API Gateway and observability tooling.
-
-### [EventStreaming Analytics Kafka](https://github.com/luismpenholato/EventStreaming.Analytics.Kafka)
-
-An event streaming reference project using Kafka, transactional Outbox, idempotent consumers, PostgreSQL and CQRS-oriented read models.
-
-### [CleanStack](https://github.com/luismpenholato/clean-stack)
-
-A full stack starter with a .NET backend and independent Angular or React/Next.js frontends. Includes product management examples, tests, Dockerfiles and CI workflows.
-
-### [OrderFlow Operations](https://github.com/luismpenholato/orderflow-operations)
-
-A commercial operations MVP with React, Node.js and PostgreSQL. Demonstrates transactional inventory reservations, kit expansion and asynchronous ERP synchronization through an outbox.
+- [queryforge-editor](https://github.com/luismpenholato/queryforge-editor) / [queryforge-mcp](https://github.com/luismpenholato/queryforge-mcp) — LINQ / EF Core / Dapper query diagnostics
+- [clean-stack](https://github.com/luismpenholato/clean-stack) — .NET + Angular/React full-stack foundation
+- [Microservices.Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce) — event-driven .NET reference
 
 [View all repositories](https://github.com/luismpenholato?tab=repositories)
 
-## Core expertise
+## Focus
 
-- Clean Architecture, DDD and SOLID
-- Event-driven systems and asynchronous processing
-- Distributed systems and transactional Outbox
-- API design, observability and CI/CD
-- Developer tooling and open-source products
+- Specification-driven development with AI agents
+- Maintainable .NET and TypeScript systems
+- Editor productivity and developer experience
+- Observability, testing and verifiable delivery
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Open source
+## Sponsor
 
-I maintain projects focused on developer experience, software architecture and productivity.
-
-If my work helps you, consider supporting the continued development and maintenance of these projects through [GitHub Sponsors](https://github.com/sponsors/luismpenholato).
+If Verdicspec or Nebula Aura help your workflow, consider supporting maintenance and new releases through [GitHub Sponsors](https://github.com/sponsors/luismpenholato).
