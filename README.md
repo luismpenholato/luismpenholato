@@ -19,7 +19,7 @@ npm install --global verdicspec
 verdicspec init . --tool all
 ```
 
-[npm package](https://www.npmjs.com/package/verdicspec) · [GitHub](https://github.com/luismpenholato/verdicspec)
+[npm package](https://www.npmjs.com/package/verdicspec) · [Skills library](https://github.com/luismpenholato/verdic-skills) · [GitHub](https://github.com/luismpenholato/verdicspec)
 
 ### [Nebula Aura Theme](https://github.com/luismpenholato/nebula-aura-theme)
 
@@ -27,13 +27,21 @@ Modern **light / dark / violet / midnight** theme pack for VS Code, Cursor and A
 
 [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=nebula-themes.nebula-aura-theme) · [Open VSX](https://open-vsx.org/extension/nebula-themes/nebula-aura-theme) · [GitHub](https://github.com/luismpenholato/nebula-aura-theme)
 
-## Also building
+## Free local tooling
 
-Architecture references and starters (study / portfolio — not Sponsors products):
+Not Sponsors products — free to use, local-first, optional sponsorship for maintenance:
 
-- [queryforge-editor](https://github.com/luismpenholato/queryforge-editor) / [queryforge-mcp](https://github.com/luismpenholato/queryforge-mcp) — LINQ / EF Core / Dapper query diagnostics
+- **[QueryForge Editor](https://github.com/luismpenholato/queryforge-editor)** / **[QueryForge MCP](https://github.com/luismpenholato/queryforge-mcp)** — LINQ, EF Core and Dapper query diagnostics for VS Code, Cursor and agents
+- **[verdic-skills](https://github.com/luismpenholato/verdic-skills)** — reusable Agent Skills for .NET, Angular, React, security and Clean Architecture
+
+## Architecture references
+
+Study / portfolio starters (not production products):
+
 - [clean-stack](https://github.com/luismpenholato/clean-stack) — .NET 10 + Angular 21 or React/Next full-stack starter
-- [Microservices.Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce) — event-driven .NET microservices reference
+- [Microservices.Ecommerce](https://github.com/luismpenholato/Microservices.Ecommerce) — YARP, RabbitMQ/MassTransit, Outbox, observability
+- [EventDriven.OrderProcessing.RabbitMQ](https://github.com/luismpenholato/EventDriven.OrderProcessing.RabbitMQ) · [EventStreaming.Analytics.Kafka](https://github.com/luismpenholato/EventStreaming.Analytics.Kafka) — event-driven .NET 10 references
+- [orderflow-operations](https://github.com/luismpenholato/orderflow-operations) — order / inventory / ERP sync MVP (outbox)
 
 [View all repositories](https://github.com/luismpenholato?tab=repositories)
 
